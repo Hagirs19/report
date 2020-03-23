@@ -1,18 +1,16 @@
 # How To install?
 
-1. Bahan - Bahan Nya
+1. pkg upgrade&&update
 
-2. pkg upgrade&&update
+2. pkg install figlet
 
-3. pkg install figlet
+3. pkg install ruby
 
-4. pkg install ruby
+4. gem install lolcat
 
-5. gem install lolcat
+5. git clone https://github.com/Hagirs19/report
 
-6. git clone https://github.com/Hagirs19/report
+6. cd report
 
-7. cd report
-
-8. bash start.sh
+7. bash start.sh
 
