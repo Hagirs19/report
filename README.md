@@ -1,14 +1,19 @@
 # How To install?
-
 1. pkg upgrade&&update
 
-2. pkg install git
+2. pkg install python2
 
-3. pip install pyfiglet
+3. pkg install python3
 
-6. git clone https://github.com/Hagirs19/report
+4. pkg install git
 
-7. cd report
+5. pip2 install pyfiglet
 
-8. python2 devtool.py --help
+6. pip2 install requests
+
+7. git clone https://github.com/Hagirs19/report
+
+8. cd report
+
+9. python2 devtool.py --help
 
