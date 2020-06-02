@@ -4,11 +4,7 @@
 
 2. pkg install git
 
-3. pkg install python
-
-4. pkg install python2 
-
-5. pip2 requests
+3. pip install pyfiglet
 
 6. git clone https://github.com/Hagirs19/report
 
