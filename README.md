@@ -13,7 +13,9 @@
 
 7. git clone https://github.com/Hagirs19/report
 
-8. cd report
+8. pip install mechanize
+
+9. cd report
 
 9. python2 devtool.py --help
 
