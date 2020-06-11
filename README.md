@@ -11,11 +11,13 @@
 
 6. pip2 install requests
 
-7. git clone https://github.com/Hagirs19/report
+7. pip2 install bs4
 
-8. pip install mechanize
+8. git clone https://github.com/Hagirs19/report
 
-9. cd report
+9. pip install mechanize
 
-9. python2 devtool.py --help
+10. cd report
+
+11. python2 devtool.py --help
 
