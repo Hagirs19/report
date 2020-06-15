@@ -15,7 +15,7 @@
 
 8. git clone https://github.com/Hagirs19/report
 
-9. pip install mechanize
+9. pip2 install mechanize
 
 10. cd report
 
