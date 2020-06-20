@@ -9,7 +9,7 @@ if r.text == "UPDATE":
   try:
     print("\033[32m[START] Sedang Melakukan Update....\033[0m")
     print("\033[33m[INFO] Ketik y jika ada notifikasi\033[0m")
-    exe = "cd $HOME&&rm -r report&&git clone https://github.com/Hagirs19/report"
+    exe = "cd $HOME&&rm -rf report&&git clone https://github.com/Hagirs19/report"
     os.system(exe)
     print("\033[32m\033[1m[SUCCESS] Update Berhasil!\033[0m")
   except:
