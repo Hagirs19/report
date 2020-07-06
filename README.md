@@ -1,5 +1,5 @@
 #View
-[Front View](https://github.com/Hagirs19/report/blob/master/Screenshot_2020-07-06-09-20-01-918_com.termux.png)
+![Front View](https://github.com/Hagirs19/report/blob/master/Screenshot_2020-07-06-09-20-01-918_com.termux.png)
 
 
 
